@@ -1,0 +1,38 @@
+# Fichiers objets
+*.o
+*.obj
+
+# Exécutables (Linux/Windows)
+*.exe
+*.out
+*.app
+
+# Dossiers de build
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.temp
+
+# Visual Studio spécifiques (si tu utilises VS)
+.vs/
+*.vcxproj*
+*.sln
+.vscode/
+
+# MacOS spécifiques
+.DS_Store
+
+# Linux spécifiques
+*~
+
+# CMake (si utilisé)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
